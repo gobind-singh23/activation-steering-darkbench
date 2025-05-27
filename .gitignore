@@ -1,0 +1,7 @@
+vibe-coding/
+steered-vectors/tests/
+dataset/test-run-bad-fewshot/
+dataset/old-runs/
+HF_TOKEN
+*.pt
+*demo*
